@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import WebRTCChat from '@/components/WebRTCChat.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <WebRTCChat />
   </main>
 </template>
